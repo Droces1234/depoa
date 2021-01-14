@@ -1,0 +1,10 @@
+C:\Users\Windows10\source\repos\pizza\pizza\bin\Debug\pizza.exe.config
+C:\Users\Windows10\source\repos\pizza\pizza\bin\Debug\pizza.exe
+C:\Users\Windows10\source\repos\pizza\pizza\bin\Debug\pizza.pdb
+C:\Users\Windows10\source\repos\pizza\pizza\obj\Debug\pizza.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\pizza\pizza\obj\Debug\pizza.Form1.resources
+C:\Users\Windows10\source\repos\pizza\pizza\obj\Debug\pizza.Properties.Resources.resources
+C:\Users\Windows10\source\repos\pizza\pizza\obj\Debug\pizza.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\pizza\pizza\obj\Debug\pizza.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\pizza\pizza\obj\Debug\pizza.exe
+C:\Users\Windows10\source\repos\pizza\pizza\obj\Debug\pizza.pdb
